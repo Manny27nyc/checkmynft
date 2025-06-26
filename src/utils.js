@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 import Arweave from "arweave";
 export const ipfsGetEndpoint = "https://ipfs.io/ipfs/";
 export const ipfsLinkEndpoint = "https://ipfs.io/api/v0/object/get?arg=";
