@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import React, { useEffect, useState } from "react";
 import { Container } from "@material-ui/core";
 import Grid from "@material-ui/core/Grid";

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import Arweave from "arweave";
 export const ipfsGetEndpoint = "https://ipfs.io/ipfs/";
 export const ipfsLinkEndpoint = "https://ipfs.io/api/v0/object/get?arg=";

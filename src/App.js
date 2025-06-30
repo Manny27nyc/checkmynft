@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import "./App.css";
 import React, { useState } from "react";
 import { createStyles, makeStyles } from "@material-ui/core/styles";
